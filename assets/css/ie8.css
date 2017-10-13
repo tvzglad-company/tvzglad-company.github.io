@@ -1,15 +1,2 @@
-/* Button */
-
-	input[type="submit"],
-	input[type="reset"],
-	input[type="button"],
-	button,
-	.button {
-		border: solid 2px #f56a6a;
-	}
-
-/* Posts */
-
-	.posts article {
-		width: 40%;
-	}
+.button,button,input[type=button],input[type=reset],input[type=submit]{border:solid 2px #f56a6a}.posts article{width:40%}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImllOC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBTUMsUUFEQSxPQURBLG1CQURBLGtCQURBLG1CQUtDLE9BQVEsTUFBTSxJQUFJLFFBS25CLGVBQ0MsTUFBTyIsImZpbGUiOiJpZTguY3NzIiwic291cmNlUm9vdCI6Ii9zb3VyY2UvIiwic291cmNlc0NvbnRlbnQiOlsiLyogQnV0dG9uICovXG5cblx0aW5wdXRbdHlwZT1cInN1Ym1pdFwiXSxcblx0aW5wdXRbdHlwZT1cInJlc2V0XCJdLFxuXHRpbnB1dFt0eXBlPVwiYnV0dG9uXCJdLFxuXHRidXR0b24sXG5cdC5idXR0b24ge1xuXHRcdGJvcmRlcjogc29saWQgMnB4ICNmNTZhNmE7XG5cdH1cblxuLyogUG9zdHMgKi9cblxuXHQucG9zdHMgYXJ0aWNsZSB7XG5cdFx0d2lkdGg6IDQwJTtcblx0fVxuIl19 */
